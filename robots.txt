@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-mbeczg.indcuan.sbs/sitemap.xml
